@@ -1,0 +1,28 @@
+{
+  "name": "modulec7_homework",
+  "version": "1.0.0",
+  "description": "testing reverse string",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VitAn1999/moduleC7_homework.git"
+  },
+  "keywords": [
+    "js",
+    "javascript",
+    "jest",
+    "testing"
+  ],
+  "author": "Vitali Roshchupkin <elpistolero1999@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VitAn1999/moduleC7_homework/issues"
+  },
+  "homepage": "https://github.com/VitAn1999/moduleC7_homework#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
